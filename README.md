@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NOTaMIME-jk
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Docker, Java and Python
+- 👀 I’m interested in Linux
+- 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on ...
 
 <!---
